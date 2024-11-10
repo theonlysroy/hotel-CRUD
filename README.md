@@ -2,7 +2,7 @@
 
 # Models and ER-Diagram
 
-![ERD]("./ERD.png")
+![ERD](./ERD.png)
 
 # 🚀 Tech Stack
 
