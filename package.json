@@ -2,10 +2,17 @@
   "name": "hotel-crud",
   "module": "index.js",
   "type": "module",
+  "scripts": {
+    "dev": "bun --hot index.js"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fastify": "^5.1.0",
+    "mongoose": "^8.8.1"
   }
 }
