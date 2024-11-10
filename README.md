@@ -1,6 +1,6 @@
-<h1 text-align="center>Hotel Management API</h1>
+<h1 text-align="center">Hotel Management API</h1>
 
-# Models & ER-Diagram
+# Models and ER-Diagram
 
 ![ERD]("./ERD.png")
 
