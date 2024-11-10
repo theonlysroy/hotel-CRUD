@@ -1,15 +1,10 @@
-# hotel-crud
+<h1 text-align="center>Hotel Management API</h1>
 
-To install dependencies:
+# Models & ER-Diagram
 
-```bash
-bun install
-```
+![ERD]("./ERD.png")
 
-To run:
+# 🚀 Tech Stack
 
-```bash
-bun run index.js
-```
-
-This project was created using `bun init` in bun v1.1.27. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- Fastify
+- Mongodb
